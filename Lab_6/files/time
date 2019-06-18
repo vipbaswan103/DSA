@@ -1,0 +1,16 @@
+*** Size of file : 10240
+Value of k: 64
+Time takes (in ms): 2657.179000 ***
+
+*** Size of file : 10240
+Value of k: 256
+Time takes (in ms): 621.247000 ***
+
+*** Size of file : 10240
+Value of k: 512
+Time takes (in ms): 347.586000 ***
+
+*** Size of file : 10240
+Value of k: 1024
+Time takes (in ms): 144.815000 ***
+
